@@ -1,4 +1,4 @@
-x = int(input("informe o numero"))
+"""x = int(input("informe o numero : "))
 r = 1
 y = 1
 while(True):
@@ -8,4 +8,7 @@ while(True):
         r = y*r
         y=y+1
 
-print(f"resposta: {r}")
+print(f"resposta: {r}")"""
+
+def fatorial(x):
+    
